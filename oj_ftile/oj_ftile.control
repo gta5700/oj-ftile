@@ -1,0 +1,5 @@
+# oj_ftile extension
+comment = 'gta ftile window function'
+default_version = '1.0'
+module_pathname = '$libdir/oj_ftile'
+relocatable = true
