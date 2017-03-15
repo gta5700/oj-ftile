@@ -54,4 +54,8 @@ x  |  part  |  ftile
  7 | 1 | 2
 
 
+binaries for windows postgresql 9.6 x86   
+oj_ftile_PG_9.6_x86_2017_03_15.zip  
+https://drive.google.com/file/d/0Byy5FoHdmS2Nekl0akxCYnF5bDg/view?usp=sharing
+
 
