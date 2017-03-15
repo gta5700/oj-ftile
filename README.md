@@ -12,10 +12,14 @@ SELECT  x,  ftile(3) OVER () as ftile
 FROM generate_series(1, 15) x
 ORDER BY x
 
+
 x   ftile
 1     1
+
 2     1
+
 3     1
+
 4     2
 5     2
 6     2
